@@ -80,9 +80,7 @@ public class Lab01 {
    pete.turnLeft();
    pete.turnLeft();
    pete.move();
-   pete.explode();
-   lisa.explode();
-   
+
      
    
    
